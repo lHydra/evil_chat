@@ -1,24 +1,5 @@
-# README
+# Evil Chat
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[Evil Martians Guide](https://evilmartians.com/chronicles/evil-front-part-1)
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+In this three-part tutorial (follow all parts to get the full picture) we learned how to fully embrace Webpacker, move away from Asset Pipeline and organize Rails front-end code around the idea of “components” using mostly built-in tools, without having to learn a front-end framework like React
